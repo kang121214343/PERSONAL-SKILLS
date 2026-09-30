@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Personal skills: local evidence and private data are never published
+/private/
+/work/
+/local-evidence/
+.env.*
+*.sqlite3
+*.sqlite3-*
+*.bak
+*.mdf
+*.ldf
+*.pfx
+*.pem
+*.key
